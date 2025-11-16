@@ -134,7 +134,7 @@ transition: fade-out
 
 # React
 
-<table style="width: 50%">
+<table  style="position:absolute; right: 50px; top: 30px; width: 50%">
 
   <tbody> 
     <tr >
@@ -152,6 +152,7 @@ transition: fade-out
   </tbody>
 
 </table>
+<br> <br><br> <br>
 
 ````md magic-move
 
