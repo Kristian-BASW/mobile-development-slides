@@ -1,0 +1,5 @@
+command for day one 1: 
+sudo slidev --open week-5/day-1.md
+
+command for day one 2: 
+sudo slidev --open week-5/day-2.md

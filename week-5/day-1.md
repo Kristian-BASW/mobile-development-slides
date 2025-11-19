@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: assets/dart.jpg
+background: ./assets/dart.jpg
 
 # some information about your slides (markdown enabled)
 title: Dart introduction
@@ -46,6 +46,8 @@ duration: 35min
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
 
+
+<!-- Test-->
 ---
 transition: fade-out
 ---
@@ -103,22 +105,22 @@ level: 2
 
 <div style="position:absolute; left: 50px; top: 110px;">
   <label class="img-label">React Native</label>
-  <img src="/assets/react-native.svg" style="margin-top: 10px;" size="30" />
+  <img src="./assets/react-native.svg" style="margin-top: 10px;" size="30" />
 </div>
 
 <div style="position:absolute; left: 50px; top: 320px;">
   <label class="img-label">Ionic (angular based)</label>
-  <img src="/assets/ionic-logo.png" style="margin-top: 10px;width: 120px;" />
+  <img src="./assets/ionic-logo.png" style="margin-top: 10px;width: 120px;" />
 </div>
 
 <div style="position:absolute; left: 550px; top: 110px;">
   <label class="img-label">.Net Maui</label>
-  <img src="/assets/dotnet-maui.png" style="margin-top:30px;width: 200px;" />
+  <img src="./assets/dotnet-maui.png" style="margin-top:30px;width: 200px;" />
 </div>
 
 <div style="position:absolute; left: 550px; top: 320px;">
   <label class="img-label">Flutter</label>
-  <img src="/assets/flutter.png" style="margin-top: 10px;width: 120px;" />
+  <img src="./assets/flutter.png" style="margin-top: 10px;width: 120px;" />
 </div>
 
 <style>
@@ -338,7 +340,7 @@ transition: fade-out
 ## Most downloaded GitHub
 
 <div style="position:absolute; left: 55px; top: 110px;">
-  <img src="/assets/graph-most-used.png"  style="margin-top: 10px;width: 850px; height: 320px" size="30" />
+  <img src="./assets/graph-most-used.png"  style="margin-top: 10px;width: 850px; height: 320px" size="30" />
 </div>
 
 <style>
@@ -356,7 +358,7 @@ transition: fade-out
 ## Stack overflow trends
 
 <div style="position:absolute; left: 55px; top: 110px;">
-  <img src="/assets/stackoverflow-trends-chart.svg"  style="margin-top: 10px;width: 850px; height: 320px;background-color: white" size="30" />
+  <img src="./assets/stackoverflow-trends-chart.svg"  style="margin-top: 10px;width: 850px; height: 320px;background-color: white" size="30" />
 </div>
 
 <style>
@@ -374,29 +376,29 @@ transition: fade-out
 
 
 <div style="position:absolute; left: 70px; top: 140px;">
-  <img src="/assets/apple-logo.png"  size="40" />
+  <img src="./assets/apple-logo.png"  size="40" />
 </div>
 
 <div style="position:absolute; left: 10px; top: 300px;">
-  <img src="/assets/android-logo.png"  size="70" />
+  <img src="./assets/android-logo.png"  size="70" />
 </div>
 
 <div style="position:absolute; left: 350px; top: 140px;">
-  <img src="/assets/windows-logo.png"  size="50" />
+  <img src="./assets/windows-logo.png"  size="50" />
 </div>
 
 
 <div style="position:absolute; left: 365px; top: 360px;">
-  <img src="/assets/linux-logo.png"  size="40" />
+  <img src="./assets/linux-logo.png"  size="40" />
 </div>
 
 
 <div style="position:absolute; left: 670px; top: 160px;">
-  <img src="/assets/web-logo.png"  size="40" />
+  <img src="./assets/web-logo.png"  size="40" />
 </div>
 
 <div style="position:absolute; left: 660px; top: 345px;">
-  <img src="/assets/tv-logo.png"  size="50" />
+  <img src="./assets/tv-logo.png"  size="50" />
 </div>
 
 ---
@@ -407,5 +409,5 @@ transition: fade-out
 #### Android TV
 
 <div style="position:absolute; left: 60px; top: 150px;">
-  <img src="/assets/app-on-tv.jpg" style="width:600px" />
+  <img src="./assets/app-on-tv.jpg" style="width:600px" />
 </div>

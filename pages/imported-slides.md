@@ -2,7 +2,7 @@
 
 You can split your slides.md into multiple files and organize them as you want using the `src` attribute.
 
-#### `slides.md`
+#### `./week-5/day-1.md`
 
 ```markdown
 # Page 1
