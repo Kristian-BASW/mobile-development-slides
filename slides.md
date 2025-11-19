@@ -48,7 +48,6 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 transition: fade-out
-# background: assets/dart.jpg
 ---
 
 ### **Native**
@@ -331,3 +330,48 @@ transition: fade-out
     background: #222222;
   }
 </style>
+
+---
+transition: fade-out
+---
+
+## Most downloaded GitHub
+
+<div style="position:absolute; left: 55px; top: 110px;">
+  <img src="/assets/graph-most-used.png"  style="margin-top: 10px;width: 850px; height: 320px" size="30" />
+</div>
+
+<style>
+  * {
+    background: #222222;
+  }
+</style>
+
+---
+transition: fade-out
+---
+
+
+
+## Stack overflow trends
+
+<div style="position:absolute; left: 55px; top: 110px;">
+  <img src="/assets/stackoverflow-trends-chart.svg"  style="margin-top: 10px;width: 850px; height: 320px;background-color: white" size="30" />
+</div>
+
+<style>
+  * {
+    background: #222222;
+  }
+</style>
+
+--- 
+transition: fade-out
+---
+
+## Flutter
+#### Platforms
+
+
+
+
