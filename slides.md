@@ -373,5 +373,28 @@ transition: fade-out
 #### Platforms
 
 
+<div style="position:absolute; left: 70px; top: 140px;">
+  <img src="/assets/apple-logo.png"  size="40" />
+</div>
+
+<div style="position:absolute; left: 10px; top: 300px;">
+  <img src="/assets/android-logo.png"  size="70" />
+</div>
+
+<div style="position:absolute; left: 320px; top: 140px;">
+  <img src="/assets/windows-logo.png"  size="50" />
+</div>
 
 
+<div style="position:absolute; left: 335px; top: 360px;">
+  <img src="/assets/linux-logo.png"  size="40" />
+</div>
+
+
+<div style="position:absolute; left: 600px; top: 160px;">
+  <img src="/assets/web-logo.png"  size="40" />
+</div>
+
+<div style="position:absolute; left: 600px; top: 345px;">
+  <img src="/assets/tv-logo.png"  size="50" />
+</div>
