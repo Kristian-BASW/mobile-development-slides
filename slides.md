@@ -381,20 +381,31 @@ transition: fade-out
   <img src="/assets/android-logo.png"  size="70" />
 </div>
 
-<div style="position:absolute; left: 320px; top: 140px;">
+<div style="position:absolute; left: 350px; top: 140px;">
   <img src="/assets/windows-logo.png"  size="50" />
 </div>
 
 
-<div style="position:absolute; left: 335px; top: 360px;">
+<div style="position:absolute; left: 365px; top: 360px;">
   <img src="/assets/linux-logo.png"  size="40" />
 </div>
 
 
-<div style="position:absolute; left: 600px; top: 160px;">
+<div style="position:absolute; left: 670px; top: 160px;">
   <img src="/assets/web-logo.png"  size="40" />
 </div>
 
-<div style="position:absolute; left: 600px; top: 345px;">
+<div style="position:absolute; left: 660px; top: 345px;">
   <img src="/assets/tv-logo.png"  size="50" />
+</div>
+
+---
+transition: fade-out
+---
+
+# Flutter on tv
+#### Android TV
+
+<div style="position:absolute; left: 60px; top: 150px;">
+  <img src="/assets/app-on-tv.jpg" style="width:600px" />
 </div>
